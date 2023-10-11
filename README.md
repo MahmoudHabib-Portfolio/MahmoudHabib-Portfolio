@@ -4,13 +4,19 @@ Hi 👋 My name is Mahmoud Hamdy
 UI/UX React Developer
 ---------------------
 
-As a skilled React developer, I am dedicated to creating innovative and efficient web applications. With a strong background in JavaScript and a passion for problem-solving, I am committed to delivering high-quality code that meets the needs of clients and users alike. My expertise in React allows me to build dynamic and responsive user interfaces that enhance the user experience. I am constantly seeking new challenges and opportunities to expand my knowledge and skills in the field of web development. Let's connect and collaborate on your next project.
+As a skilled React developer, I am dedicated to creating innovative and efficient web applications. With a strong background in JavaScript and a passion for problem-solving, I am committed to delivering high-quality code that meets the needs of clients and users alike. 
+
+My expertise in React allows me to build dynamic and responsive user interfaces that enhance the user experience. I am constantly seeking new challenges and opportunities to expand my knowledge and skills in the field of web development. Let's connect and collaborate on your next project.
+
+Experienced and proficient React Developer with a strong passion for crafting innovative and efficient web applications. Skilled in utilizing React.js to create dynamic user interfaces and enhance overall user experience. 
+
+Committed to delivering high-quality code and continuously improving development practices. Seeking opportunities to collaborate with like-minded professionals and contribute to cutting-edge projects.
 
 * 🌍  I'm based in New Cairo City, Egypt
 * 🖥️  See my portfolio at [https://github.com/MahmoudHabib-Portfolio](http://https://github.com/MahmoudHabib-Portfolio)
 * ✉️  You can contact me at [mahmoudhabeb96@gmail.com](mailto:mahmoudhabeb96@gmail.com)
 * 🚀  I'm currently working on [Upwork -- Freelancer (Self-Employed)](http://https://www.upwork.com/freelancers/~0197e97e7e7aba4996)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning MERN Stack Development
 
 <a href="https://www.github.com/MahmoudHabib-Portfolio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MahmoudHabib-Portfolio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
