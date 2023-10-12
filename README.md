@@ -21,7 +21,7 @@ Committed to delivering high-quality code and continuously improving development
 <a href="https://www.github.com/MahmoudHabib-Portfolio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MahmoudHabib-Portfolio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Languages & Tools
 
 
 <p align="left">
