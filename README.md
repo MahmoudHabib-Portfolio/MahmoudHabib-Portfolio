@@ -17,10 +17,10 @@ Committed to delivering high-quality code and continuously improving development
 * ✉️  You can contact me at [mahmoudhabeb96@gmail.com](mailto:mahmoudhabeb96@gmail.com)
 * 🚀  I'm currently working on [Upwork -- Freelancer (Self-Employed)](http://https://www.upwork.com/freelancers/~0197e97e7e7aba4996)
 * 🧠  I'm learning MERN Stack Development
-
+<!--
 <a href="https://www.github.com/MahmoudHabib-Portfolio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MahmoudHabib-Portfolio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+-->
 💼 Languages & Tools
 
 
